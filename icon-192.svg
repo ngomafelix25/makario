@@ -1,0 +1,10 @@
+<svg width="192" height="192" viewBox="0 0 192 192" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0" y1="0" x2="192" y2="192" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#1E66FF"/>
+      <stop offset="100%" stop-color="#2ED47A"/>
+    </linearGradient>
+  </defs>
+  <rect width="192" height="192" rx="40" fill="url(#grad)"/>
+  <text x="96" y="135" text-anchor="middle" font-family="'Outfit', 'Arial Black', sans-serif" font-weight="800" font-size="96" fill="white">M</text>
+</svg>
